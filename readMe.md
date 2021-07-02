@@ -1,6 +1,6 @@
 ## trabajo 
 
+## alumnos 
 
-## Ejercicio git
-- Marcos
-- Maxi
+# marcos
+# maxi 
